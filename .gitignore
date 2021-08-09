@@ -1,0 +1,14 @@
+Pods/*
+Podfile
+podfile.lock
+sesh.wav
+.idea
+/TeamSESH/GoogleService-Info.plist
+/TeamSESH/Info.plist
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.hmap
+*.ipa
+playground.xcworkspace
